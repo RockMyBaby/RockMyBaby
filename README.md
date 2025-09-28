@@ -1,6 +1,6 @@
 ## Hi there, I am Suhas Chaubey 👋
 
-I am System Engineer @TCS,graduated B.E. from Mumbai University in 2024. 🎓
+I am System Engineer @TCS,graduated B.E. from Mumbai University in 2019. 🎓
 
 🕸️My Skill Sets are ReactJS, Javascript, HTML and CSS.
 
